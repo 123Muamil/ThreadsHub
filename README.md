@@ -38,21 +38,7 @@ The live site is deployed in vercel, but it seems that vercel can't render swipe
 ### Credit
 [Figma Web Design & UI kit i used for this project is design by Weird Design Studio](https://ui8.net/ui-market/products/e-commerce-ui-website-design?status=7)
 
-## My process
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- [Next JS](https://nextjs.org/) - React Framework for Production
-- [Sanity](https://www.sanity.io/) - Sanity is a customizable solution that treats content as data to power digital business.
-- [Stripe](https://stripe.com/en-gb-us) - APIs to power online payment processing for e-commerce
-- [react-hot-toast](https://react-hot-toast.com/) - react library that adds beautiful notifications to our react application. 
-- [react icons](https://react-icons.github.io/react-icons/) - JS library to add icons
-- [swiper js](https://swiperjs.com/) - JS library to add slider component
-- [canvas-confetti](https://www.npmjs.com/package/canvas-confetti) - Lightweight JS plugin to create a confetti celebration explosion effect. It draws confetti graphics on the HTML canvas element. 
 
 ### What I learned
 
@@ -80,14 +66,8 @@ The confetti effect is implemented on the payment success page after the user su
 ### Continued development
 The development of this project can be continued by adding a search filter functionality, an e-commerce newsletter, activate the slider function for product section in homepage. In the near future, I'm going to explore react js search filters and maybe add that functionality myself.
 
-### Useful resources
-- [UI/UX Design Resources](https://ui8.net/) - This website provide many UI/UX design, some are even free.
-- [Tutorial Modern Full Stack ECommerce React Application with Stripe by JavaScript Mastery](https://www.youtube.com/watch?v=4mOkFXyxfsU&t=10459s) - This youtube tutorial really helps in understanding Next js and the use of sanity and stripe for e-commerce
-- [Swiper React Components](https://swiperjs.com/react#styles)
-- [Customize Prev/Next Button of Swiper Arrows](https://www.timo-ernst.net/blog/2020/09/12/arrows-in-react-swiper-js-how-to-customize-prev-next-button/)
 
 
-## Author
 
 
 
